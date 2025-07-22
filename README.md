@@ -18,14 +18,8 @@ Features
 
     Secure & Scalable: Robust backend with PostgreSQL, Express.js, and AWS integrations.
 
-Demo
-<!-- Add a demo video link here if available. Example: -->
-Video Demonstration
-<!-- <a href="YOUR_VIDEO_LINK"> <img src="YOUR_VIDEO_THUMBNAIL" width="500"/> </a> -->
 
-Demo video coming soon!
-Preview
-<!-- Replace these with actual links or screenshots from your ServAI deployment --> <img src="https://github.com/Omsh24/ServAI/assets/preview1.png" width="900" alt="ServAI Dashboard preview"/> <img src="https://github.com/Omsh24/ServAI/assets/preview2.png" width="900" alt="Image AI preview"/> <img src="https://github.com/Omsh24/ServAI/assets/preview3.png" width="900" alt="Resume review preview"/>
+
 Technologies Used
 
     Frontend: React.js, Vite, TailwindCSS, React Router
@@ -54,7 +48,7 @@ Prerequisites
 1. Clone the repository
 
 bash
-git clone https://github.com/Omsh24/ServAI.git
+git clone https://github.com/fateh0007/ServAI.git
 cd ServAI
 
 2. Install dependencies
