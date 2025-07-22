@@ -112,6 +112,6 @@ Contributing
 If you'd like to contribute to this project, feel free to fork the repository, create a feature branch, and submit a pull request.
 Contact
 
-    Om Shukla: omshukla2403@gmail.com
+    Fateh Alam: fatehalam123463@gmail.com
 
 Empower your productivity with all your favorite AI tools — unified in one modern workspace: सर्व.AI!
